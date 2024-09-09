@@ -49,14 +49,14 @@ let project =function (title,desc,src,classs,href){
 }
 document.body.appendChild(bigcontainer);
 bigcontainer.style.gap='50px'
-
-project('React Project','This is a login and sign up project with dashboard to edit users and products','images.jpeg','project1','');
+project('React Projects','This is a login and sign up project with dashboard to edit users and products','images.jpeg','project1','');
 project('Hangman game','Hangman game project with painting','images.jpeg','project2','');
 project('react ecommerece shop','react ecommerece shop that has roles and product catgories and responsive design','images.jpeg','project3','');
 project('ai image generator','java script project that uses open ai api to generate photos according to what you type','images.jpeg','project4','');
 
 project('to do list','a simple to do list with javascript','images.jpeg','project1','');
 project('crud project','project that let you save data and update them and delete them with searching inputs','images.jpeg','project2','');
+
 
 
 window.onscroll=function(){
