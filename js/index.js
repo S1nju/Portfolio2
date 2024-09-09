@@ -55,7 +55,7 @@ project('react ecommerece shop(Current project)','react ecommerece shop that has
 project('ai image generator','java script project that uses open ai api to generate photos according to what you type','images.jpeg','project4','https://s1nju.github.io/ai-image-gengerator');
 
 project('to do list','a simple to do list with javascript','images.jpeg','project1','https://s1nju.github.io/to-do-list');
-project('crud project','project that let you save data and update them and delete them with searching inputs','images.jpeg','project2','');
+project('crud project','project that let you save data and update them and delete them with searching inputs','images.jpeg','project2','https://s1nju.github.io/crud-project/');
 
 
 
